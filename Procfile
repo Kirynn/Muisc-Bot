@@ -1,2 +1,2 @@
 web: runbot.bat server 
-web: update_deps.bat
+web: update_deps.bat server
