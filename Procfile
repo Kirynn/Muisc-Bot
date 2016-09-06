@@ -1,1 +1,2 @@
-web: python run.py server 
+web: runbot.bat server 
+web: update_deps.bat
