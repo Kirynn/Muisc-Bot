@@ -1,1 +1,1 @@
-web: python runbot.nat runserver 0.0.0.0:5000
+web: python runbot.bat runserver 0.0.0.0:5000
